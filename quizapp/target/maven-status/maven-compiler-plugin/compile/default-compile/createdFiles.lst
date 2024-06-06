@@ -1,0 +1,11 @@
+com\satwik\quizapp\dto\QuestionResponse.class
+com\satwik\quizapp\repository\QuestionRepo.class
+com\satwik\quizapp\repository\QuizRepo.class
+com\satwik\quizapp\controller\QuestionController.class
+com\satwik\quizapp\model\Question.class
+com\satwik\quizapp\QuizappApplication.class
+com\satwik\quizapp\controller\QuizController.class
+com\satwik\quizapp\dto\QuestionWrapper.class
+com\satwik\quizapp\service\QuestionService.class
+com\satwik\quizapp\model\Quiz.class
+com\satwik\quizapp\service\QuizService.class
